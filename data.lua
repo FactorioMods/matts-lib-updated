@@ -13,7 +13,7 @@ data:extend(
 		type = "item-group",
 		name = "matts-resources",
 		order = "w-a",
-		icon = "__matts-lib__/graphics/item-group/matts-resources.png",
+		icon = "__matts-lib-updated__/graphics/item-group/matts-resources.png",
 		icon_size = 64
 	},
 		{
